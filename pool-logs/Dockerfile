@@ -2,7 +2,7 @@
 # FINAL ENVIRONMENT #
 #####################
 
-FROM python:3.12-alpine
+FROM python:3.13-alpine
 
 WORKDIR /app
 
