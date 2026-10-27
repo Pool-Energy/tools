@@ -1,2 +1,2 @@
-asyncio
-websockets
+asyncio==4.0.0
+websockets==17.3
